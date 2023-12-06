@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTracNghiemTiengAnh</string>
+    <string name="AnswerA">Nội dung câu a</string>
+    <string name="AnswerB">Nội dung câu b</string>
+    <string name="AnswerC">Nội dung câu c</string>
+    <string name="AnswerD">Nội dung câu d</string>
+    <string name="dialog_message">Thông báo!</string>
+</resources>
